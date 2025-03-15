@@ -1,0 +1,122 @@
+#doudou {
+    background-color: #ECF8F6;
+    color: #18534F;
+}
+
+header {
+    background-color: #18534F;
+    color: white;
+}
+
+header nav a {
+    color: white;
+    margin-right: 15px;
+    text-decoration: none;
+}
+
+header nav a:hover {
+    text-decoration: underline;
+}
+
+/* Boutons principaux */
+.btn-primary {
+    background-color: #226D68;
+    border-color: #226D68;
+}
+
+.btn-primary:hover {
+    background-color: #18534F;
+}
+
+.btn-warning {
+    background-color: #FEEAA1;
+    border: none;
+    
+}
+
+/* Carte personnalisée */
+.custom-card {
+    border-radius: 15px;
+    background-color: #FFFFFF;
+    border: 2px solid #FEEAA1;
+}
+
+/* Section "À propos" */
+.about-section {
+    background-color: #FEEAA1;
+    color: #18534F;
+    padding: 20px;
+    border-radius: 10px;
+    margin-top: 30px;
+}
+
+/* Pied de page */
+footer {
+    background-color: #D6955B;
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+}
+
+/* Icônes */
+.logo {
+    font-size: 2rem;
+    color: #FEEAA1;
+    margin-right: 10px;
+}
+
+#bingbing{
+    margin-bottom: 10px;
+}
+ /* Formulaire centré et stylisé */
+ .form-container {
+    max-width: 500px; /* Limite la largeur à 500px */
+    margin: auto; /* Centre horizontalement */
+    padding: 20px; /* Ajoute de l'espace intérieur */
+    border: 1px solid #ddd; /* Bordure légère */
+    border-radius: 10px; /* Coins arrondis */
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1); /* Ombre légère */
+    background-color: #fff; /* Couleur de fond blanche */
+}
+
+/* Bouton "Se connecter" personnalisé */
+ /* Bouton "Créer un compte" personnalisé */
+        .btn-primary {
+            background-color: #226D68;
+            border-color: #226D68;
+        }
+
+        .btn-primary:hover {
+            background-color: #D6955B;
+            border-color: #D6955B;
+        }
+
+
+
+ /* Style par défaut du lien */
+ .text-center a {
+    color: #226D68; /* Couleur par défaut */
+    text-decoration: none; /* Pas de soulignement */
+    transition: color 0.3s ease, transform 0.3s ease; /* Transition fluide */
+}
+
+/* Effet hover */
+.text-center a:hover {
+    color: #D6955B; /* Couleur au survol */
+    transform: scale(1.05); /* Zoom léger */
+}
+
+#setif19{
+    color: #ECF8F6; /* Couleur par défaut */
+    text-decoration: none; /* Pas de soulignement */
+    transition: color 0.3s ease, transform 0.3s ease; /* Transition fluide */
+}
+#setif19:hover{
+    color: #ECF8F6; /* Couleur au survol */
+    background-color: #18534F;
+    border-color: #FEEAA1;
+    transform: scale(1.05); /* Zoom léger */
+    transition: color 0.3s ease, transform 0.3s ease; /* Transition fluide */
+    
+}
+

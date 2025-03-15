@@ -1,0 +1,141 @@
+body {
+    background-color: #ECF8F6;
+    color: #18534F;
+}
+
+
+.header {
+    background-color: #D6955B;
+    color: white;
+    padding: 15px 20px;
+}
+.welcome {
+    margin-left: 100px;
+    font-size: 1.2rem;
+
+}
+.content {
+    padding: 20px;
+}
+.card {
+    border: 2px solid #FEEAA1;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+.btn-primary {
+    background-color: #226D68;
+    border-color: #226D68;
+}
+.btn-primary:hover {
+    background-color: #18534F;
+} body {
+    background-color: #ECF8F6;
+    color: #18534F;
+}
+.sidebar {
+    background-color: #18534F;
+    height: 100vh;
+    color: white;
+    padding-top: 65px;
+    
+}
+
+.header {
+    background-color: #D6955B;
+    color: white;
+    padding: 15px 20px;
+}
+.welcome {
+    font-size: 1.2rem;
+}
+.content {
+    padding: 20px;
+}
+.card {
+    border: 2px solid #FEEAA1;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+.btn-primary {
+    background-color: #226D68;
+    border-color: #226D68;
+}
+.btn-primary:hover {
+    background-color: #18534F;
+}
+footer {
+    background-color:#FEEAA1;
+    color: white;
+    padding: 10px 0;
+   
+}
+.logo {
+    margin-left: 10px;
+    color: #FEEAA1;
+}
+
+
+/*<style>*/
+        body {
+            background-color: #ECF8F6;
+            color: #18534F;
+        }
+        .sidebar {
+            background-color: #18534F;
+            height: 100vh;
+            color: white;
+            position: fixed;
+            width: 250px;
+            transition: all 0.3s;
+            z-index: 1000;
+        }
+        .sidebar.hidden {
+            transform: translateX(-250px);
+        }
+        
+        .header {
+            background-color: #18534F;
+            color: white;
+            padding: 20px 20px;
+            margin-left: 250px;
+            transition: margin-left 0.3s;
+        }
+        .header.sidebar-hidden {
+            margin-left: 0;
+        }
+        .content {
+            padding: 20px;
+            margin-left: 250px;
+            transition: margin-left 0.3s;
+        }
+        .content.sidebar-hidden {
+            margin-left: 0;
+        }
+        .toggle-btn {
+            position: fixed;
+            top: 15px;
+            left: 15px;
+            background-color: #226D68;
+            border: none;
+            color: white;
+            padding: 10px 15px;
+            border-radius: 5px;
+            cursor: pointer;
+            z-index: 1100;
+            
+        }
+        .card {
+            border: 2px solid #FEEAA1;
+            border-radius: 10px;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+        }
+        .btn-primary {
+
+            background-color: #226D68;
+            border-color: #226D68;
+        }
+        .btn-primary:hover {
+            background-color: #18534F;
+        }
+   /* </style>*/
+   /*recent */
