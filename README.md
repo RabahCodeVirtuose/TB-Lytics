@@ -68,7 +68,7 @@ Les utilisateurs peuvent **ajouter et supprimer des fichiers** de manière intui
 ## 📌 Installation et utilisation
 1. **Clonez le projet** :
    ```bash
-   git clone https://github.com/ton-repo/TB-Lytics.git
+   git clone https://github.com/RabahCodeVirtuose/TB-Lytics
    ```
 2. **Configurez la base de données** en important le fichier `ministere.sql` dans MySQL.
 3. **Configurez XAMPP** et démarrez Apache et MySQL.
