@@ -75,6 +75,6 @@ Les utilisateurs peuvent **ajouter et supprimer des fichiers** de manière intui
 4. **Accédez à l’application** via `http://localhost/TB-Lytics/`.
 
 ---
-
+## ce dossier doit être placé dans hdocs du dossier Xampp (dans le disque dûr )
 ## 📩 Contact
 📧 Email : [rabah.toubal.etudes@gmail.com](mailto:rabah.toubal.etudes@gmail.com)  
